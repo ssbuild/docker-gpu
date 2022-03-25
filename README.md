@@ -21,6 +21,12 @@ linux 系统
   tensorrt: 8.0.1 GA 可选安装,建议安装deb包
 
   nvidia Compute Capability 6.1 7.0 7.5 8.0 8.6
+  
+  也可以使用docker:
+  - docker push ssdog/cuda:11.3.1-runtime-ubuntu18.04
+  - docker push ssdog/cuda:11.3.1-runtime-ubuntu20.04
+
+ docker为装有cuda cudnn nccl tensorrt的环境 ， 需要的tensorflow 可以从下面资源中获取。
 
 ## 下载
 
