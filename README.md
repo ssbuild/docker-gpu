@@ -6,7 +6,7 @@ cuda11.3
 
 ## 介绍
 
-- 博客：https://kexue.fm/archives/8998
+- 博客：ssdog.cn/blog
 
 ## 环境
 
