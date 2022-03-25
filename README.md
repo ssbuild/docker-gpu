@@ -1,8 +1,5 @@
 # tensorflow linux
 
-cuda11.3
-
-
 
 ## 介绍
 
