@@ -3,8 +3,6 @@
 
 ## 介绍
 
-- 博客：ssdog.cn/blog
-
 ## 环境
 
 linux 系统
