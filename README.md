@@ -33,7 +33,9 @@ tensorflow cuda 11.3 长期维护更新，当前最新版本 2.8.0  , 已支持p
 下载地址:
 
 
-- tensorflow：[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA )(提取码：rpxv)
+- 「tensorflow」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA )(提取码：rpxv)
+- 「tensorflow」[阿里云](https://www.aliyundrive.com/s/jLn71iSHJDR)
+
 
 
 
