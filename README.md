@@ -6,6 +6,7 @@
 ## 环境
 
 linux 以下环境测试通过
+
   cuda 11.6.2   
   cudnn 8.4   
   nccl 2.12   
@@ -24,15 +25,21 @@ linux 以下环境测试通过
   - docker push ssdog/cuda:11.6.2-runtime-ubuntu18.04
   - docker push ssdog/cuda:11.6.2-runtime-ubuntu20.04
 
- docker为装有cuda cudnn nccl tensorrt的环境 ， 需要的tensorflow 可以从下面资源中获取。
+ ##### 注 docker为装有cuda cudnn nccl 的环境 ， 需要的tensorflow 可以从下面资源中获取。事实上只要安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
 
 ## 安装
-
+  - tensorflow 1系列 , 支持window linux python3.6-python3.9
+  - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
+  
+ ```
   pip install tf-gpu==1.15.5.2204
-  
+  pip install tf-gpu==1.15.5.2205
+  pip install tf-gpu==2.6
+  pip install tf-gpu==2.7
   pip install tf-gpu==2.8
-  
   pip install tf-gpu==2.9
+```
+ 
 
 
 
