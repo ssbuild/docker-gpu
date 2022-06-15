@@ -6,7 +6,7 @@
 ## 环境
 
 ### linux
-
+ 
     cuda 11.6.2   
     cudnn 8.4   
     nccl 2.12   
@@ -22,7 +22,7 @@
   ### windows
     cuda 11.6.2   
     cudnn 8.4  
-     nvidia Compute Capability 5.0,5.2,6.0 6.1 7.0 7.5 8.0 8.6
+    nvidia Compute Capability 5.0,5.2,6.0 6.1 7.0 7.5 8.0 8.6
   
   也可以使用docker:
   - docker push ssdog/cuda:11.3.1-runtime-ubuntu18.04
