@@ -44,12 +44,16 @@
   - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
   
  ```
+  「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
+  
   pip install tf-gpu==1.15.5.2204
   pip install tf-gpu==1.15.5.2205
   pip install tf-gpu==2.6
   pip install tf-gpu==2.7
   pip install tf-gpu==2.8
+  pip install tf-gpu==2.8.2
   pip install tf-gpu==2.9
+  pip install tf-gpu==2.9.1
 ```
  
 
