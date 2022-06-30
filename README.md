@@ -42,9 +42,10 @@
 ## 安装
   - tensorflow 1系列 , 支持window linux python3.6-python3.9
   - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
+  - 「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
   
  ```
-  「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
+  
   
   pip install tf-gpu==1.15.5.2204
   pip install tf-gpu==1.15.5.2205
