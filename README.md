@@ -24,14 +24,14 @@
     cudnn 8.4  
     nvidia Compute Capability 5.0,5.2,6.0 6.1 7.0 7.5 8.0 8.6
   
-  cuda运行时包
+  - cuda运行时包
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu20.04.py38
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu20.04.py38
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu20.04
-  cuda开发包
+  - cuda开发包
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu18.04
