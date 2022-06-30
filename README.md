@@ -11,7 +11,7 @@
     cudnn 8.4   
     nccl 2.12   
     tensorrt: 8.4 可选安装     
-    support nvidia Compute Capability 6.0 6.1 7.0 7.5 8.0 8.6  
+    nvidia Compute Capability 6.0 6.1 7.0 7.5 8.0 8.6  
 
     cuda 11.3.1   
     cudnn 8.2.1   
