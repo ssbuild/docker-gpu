@@ -13,12 +13,12 @@
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu18.04
 
  ##### 注 docker为装有cuda cudnn nccl 的环境 ，事实上只要安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
-# paddlepaddle
+# 1. paddle
 ## 下载地址
-    - 「tensorflow」[百度云](链接：https://pan.baidu.com/s/1nv6z6NSYLdDnPSStobJS1w?pwd=0000 (提取码：0000)
+    - 「paddle-gpu」[百度云](链接：https://pan.baidu.com/s/1nv6z6NSYLdDnPSStobJS1w?pwd=0000 (提取码：0000)
 
 
-# tensorflow
+# 2. tensorflow
 ## 下载地址
   - tensorflow 1系列 , 支持window linux python3.6-python3.9
   - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
