@@ -1,6 +1,4 @@
-# tensorflow cuda11
-
-## 介绍
+# tensorflow
 
 ## 环境
 
