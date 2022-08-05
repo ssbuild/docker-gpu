@@ -14,11 +14,15 @@
 
  ##### 注 docker为装有cuda cudnn nccl 的环境 ，事实上只要安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
 # paddlepaddle
-下载地址: 「tensorflow」[百度云](链接：https://pan.baidu.com/s/1nv6z6NSYLdDnPSStobJS1w?pwd=0000 (提取码：0000)
+## 下载地址
+    - 「tensorflow」[百度云](链接：https://pan.baidu.com/s/1nv6z6NSYLdDnPSStobJS1w?pwd=0000 (提取码：0000)
 
 
 # tensorflow
-
+## 下载地址
+  - tensorflow 1系列 , 支持window linux python3.6-python3.9
+  - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
+  - 「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
 
 ### linux
  
@@ -38,11 +42,6 @@
     cuda 11.6.2   
     cudnn 8.4  
     nvidia Compute Capability 5.0,5.2,6.0 6.1 7.0 7.5 8.0 8.6
-  
-## 安装
-  - tensorflow 1系列 , 支持window linux python3.6-python3.9
-  - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
-  - 「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
   
  ```
   pip install tf-gpu==1.15.5.2204
