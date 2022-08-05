@@ -20,9 +20,13 @@
 
 # 2. tensorflow
 ## 下载地址
+  - 「tensorflow」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA )(提取码：rpxv)
+  - 「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
+  - 
+## 版本介绍
   - tensorflow 1系列 , 支持window linux python3.6-python3.9
   - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
-  - 「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
+  
 
 ### linux
  
@@ -54,11 +58,6 @@
   pip install tf-gpu==2.9.1
 ```
 
-
-下载地址:
-
-
-- 「tensorflow」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA )(提取码：rpxv)
 
 
 
