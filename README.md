@@ -1,4 +1,4 @@
-# docker 环境
+# docker 镜像
   - cuda运行时包
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu20.04.py38
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu20.04.py38
@@ -14,7 +14,7 @@
 
  ##### 注 docker为装有cuda cudnn nccl 的环境 ，事实上只要安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
 # 1. paddle
-## 版本介绍
+## 环境介绍
 
     cuda 11.3.1   
     cudnn 8.2.1   
@@ -32,7 +32,7 @@
   - 「tensorflow」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA )(提取码：rpxv)
   - 「tf-gpu」(https://pypi.org/project/tf-gpu/#history)
   
-## 版本介绍
+## 环境介绍
   - tensorflow 1系列 , 支持window linux python3.6-python3.9
   - tensorflow 2系列 , linux python3.8-python3.10 , windows 支持一版 python3.8 tensorflow2.9
   
