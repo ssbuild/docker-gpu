@@ -16,7 +16,7 @@
 # 1. paddle
 
 ## 下载地址
-  - 「tensorflow」[百度云](https://pan.baidu.com/s/1nv6z6NSYLdDnPSStobJS1w )(提取码：0000)
+  - 「paddle-gpu」[百度云](https://pan.baidu.com/s/1nv6z6NSYLdDnPSStobJS1w )(提取码：0000)
 
 
 # 2. tensorflow
