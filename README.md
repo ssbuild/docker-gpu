@@ -14,7 +14,7 @@
 
  ##### 注 docker为装有cuda cudnn nccl 的环境 ，事实上只要安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
 # 一、 paddle
-#### 环境介绍
+#### linux
 
     cuda 11.6.2   
     cudnn 8.4   
