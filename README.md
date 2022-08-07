@@ -58,6 +58,7 @@
  ```
   pip install tf-gpu==1.15.5.2204
   pip install tf-gpu==1.15.5.2205
+  pip install tf-gpu==1.15.5.2206
   pip install tf-gpu==2.6
   pip install tf-gpu==2.7
   pip install tf-gpu==2.8
