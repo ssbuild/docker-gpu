@@ -1,16 +1,21 @@
 # docker 镜像
-  - cuda运行时包
-  - docker pull ssdog/cuda:11.3.1-runtime-ubuntu20.04.py38
-  - docker pull ssdog/cuda:11.6.2-runtime-ubuntu20.04.py38
+  - cuda运行时环境
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu20.04
-  - cuda开发包
+  - docker pull ssdog/cuda:11.7.1-runtime-ubuntu18.04
+  - docker pull ssdog/cuda:11.7.1-runtime-ubuntu20.04
+  - docker pull ssdog/cuda:11.7.1-runtime-ubuntu22.04
+  - cuda开发环境
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu18.04
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu18.04
+  - docker pull ssdog/cuda:11.6.2-dev-ubuntu20.04
+  - docker pull ssdog/cuda:11.7.1-dev-ubuntu18.04
+  - docker pull ssdog/cuda:11.7.1-dev-ubuntu20.04
+  - docker pull ssdog/cuda:11.7.1-dev-ubuntu22.04
 
  ##### 注 docker为装有cuda cudnn nccl 的环境 ，事实上安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
  
