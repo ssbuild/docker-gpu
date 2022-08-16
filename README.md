@@ -48,8 +48,12 @@
 #### 下载地址
   - 「mxnet-gpu」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA?pwd=rpxv )(提取码：rpxv)
 
-
-# 三、  tensorflow
+# 三、  torch
+      pip install torch
+     
+      
+      
+# 四、  tensorflow
 
 #### 下载地址
   - 「tensorflow」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA?pwd=rpxv )(提取码：rpxv)
