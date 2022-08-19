@@ -57,11 +57,9 @@
 # 三、  torch
 #### 依赖安装
     apt-get install libopenblas-base -y or apt-get install libopenblas0 -y
-    
-    pip install torch
-      
-      
-      「torch-gpu」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA?pwd=rpxv )(提取码：rpxv)
+  
+#### 下载地址
+  - 「torch-gpu」[百度云](https://pan.baidu.com/s/1PXelYOJ2yqWfWfY7qAL4wA?pwd=rpxv )(提取码：rpxv)
      
       
       
