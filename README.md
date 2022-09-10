@@ -17,7 +17,7 @@
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu22.04
 
- ##### 注 docker为装有cuda cudnn nccl 的环境 ，事实上安装 cuda11系列 cudnn8系列 nccl2.9以上系列 都可以正常驱动gpu资源。 
+ ##### 注 docker为装有cuda cudnn nccl 的环境 
  
 #### docker linux 环境
     cuda 11.7.1   
@@ -84,5 +84,7 @@
   pip install tf-gpu==2.8.2
   pip install tf-gpu==2.9
   pip install tf-gpu==2.9.1
+  pip install tf-gpu==2.9.2
+  pip install tf-gpu==2.10
 ```
 - 博客：ssdog.cn/blog
