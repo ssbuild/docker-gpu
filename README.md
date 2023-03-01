@@ -7,6 +7,9 @@
   - docker pull ssdog/cuda:11.7.1-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.7.1-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.7.1-runtime-ubuntu22.04
+  - docker pull ssdog/cuda:11.8.0-runtime-ubuntu18.04
+  - docker pull ssdog/cuda:11.8.0-runtime-ubuntu20.04
+  - docker pull ssdog/cuda:11.8.0-runtime-ubuntu22.04
   - cuda开发环境
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu20.04
@@ -16,10 +19,20 @@
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu18.04
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu22.04
+  - docker pull ssdog/cuda:11.8.0-dev-ubuntu18.04
+  - docker pull ssdog/cuda:11.8.0-dev-ubuntu20.04
+  - docker pull ssdog/cuda:11.8.0-dev-ubuntu22.04
+
 
  ##### 注 docker为装有cuda cudnn nccl 的环境 
  
 #### docker linux 环境
+    cuda 11.8.0   
+    cudnn 8.8   
+    nccl 2.15   
+    tensorrt: 8.5 可选安装     
+    nvidia Compute Capability 6.1 7.0 7.5 8.0 8.6 8.9
+
     cuda 11.7.1   
     cudnn 8.5   
     nccl 2.13   
