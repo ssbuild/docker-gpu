@@ -5,7 +5,12 @@
     cuda 11.8.0   
     cudnn 8.8   
     nccl 2.15   
-    tensorrt: 8.5 未安装      
+    tensorrt: 8.5 未安装    
+
+    cuda 11.8.0   
+    cudnn 8.7   
+    nccl 2.15   
+    tensorrt: 8.5 未安装   
 
 
     cuda 11.7.1   
@@ -33,9 +38,12 @@
   - docker pull ssdog/cuda:11.7.1-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.7.1-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.7.1-runtime-ubuntu22.04
+  - docker pull ssdog/cuda:11.8.0-cudnn8.7.0-runtime-ubuntu20.04
+  - docker pull ssdog/cuda:11.8.0-cudnn8.7.0-runtime-ubuntu22.04
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu22.04
+
 ### cuda开发环境
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu18.04
@@ -44,6 +52,8 @@
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu18.04
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.7.1-dev-ubuntu22.04
+  - docker pull ssdog/cuda:11.8.0-cudnn8.7.0-dev-ubuntu20.04
+  - docker pull ssdog/cuda:11.8.0-cudnn8.7.0-dev-ubuntu22.04
   - docker pull ssdog/cuda:11.8.0-dev-ubuntu18.04
   - docker pull ssdog/cuda:11.8.0-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.8.0-dev-ubuntu22.04
@@ -106,6 +116,7 @@
   pip install tf-gpu==2.9.1 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.6.2
   pip install tf-gpu==2.9.2 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.6.2
   pip install tf-gpu==2.10 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.6.2
-  pip install tf-gpu==2.11.0 # 支持算力 6.1 7.0 7.5 8.0 8.6 8.9  推荐 docker cuda:11.8.0
+  pip install tf-gpu==2.11.0 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.8.0
+  pip install tf-gpu==2.11.0.2301 # 支持算力 8.6 8.9  推荐 docker cuda:11.8.0
 ```
 - 博客：ssdog.cn/blog
