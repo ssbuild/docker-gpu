@@ -116,7 +116,7 @@
   pip install tf-gpu==2.9.1 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.6.2
   pip install tf-gpu==2.9.2 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.6.2
   pip install tf-gpu==2.10 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.6.2
-  pip install tf-gpu==2.11.0 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6  推荐 docker cuda:11.8.0
+  pip install tf-gpu==2.11.0 # 支持算力 6.0 6.1 7.0 7.5 8.0  推荐 docker cuda:11.8.0
   pip install tf-gpu==2.11.0.2301 # 支持算力 8.6 8.9  推荐 docker cuda:11.8.0
 ```
 - 博客：ssdog.cn/blog
