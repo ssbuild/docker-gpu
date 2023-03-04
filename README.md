@@ -37,7 +37,6 @@
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu22.04
 ### cuda开发环境
-  - docker pull ssdog/cuda:11.6.2-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu18.04
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu18.04
