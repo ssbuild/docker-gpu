@@ -107,5 +107,6 @@
   pip install tf-gpu==2.9.1 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6 
   pip install tf-gpu==2.9.2 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6 
   pip install tf-gpu==2.10 # 支持算力 6.0 6.1 7.0 7.5 8.0 8.6 
+  pip install tf-gpu==2.11.0 # 支持算力 6.1 7.0 7.5 8.0 8.6 8.9
 ```
 - 博客：ssdog.cn/blog
