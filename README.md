@@ -1,6 +1,10 @@
-# nvidia docker 常用cuda环境
+# 常用 nvidia docker cuda环境集锦
 
-### 1. docker cuda 镜像
+## nvidia docker 深度学习框架 
+ - [nvidia docker](nvidia_docker.MD)
+
+## 第三方 nvidia docker
+### 1. docker cuda 镜像环境
  
 | name | cuda | cudnn |  nccl | tensorrt   |
 |------|------|-------|------|------------|
@@ -11,7 +15,7 @@
 | cuda:11.8.0  | 11.8.0   | 8.8   |  2.15 | 8.5.3 未安装  |
 
 
-### 2. cuda运行时环境
+### 2. cuda运行时镜像
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu18.04
   - docker pull ssdog/cuda:11.3.1-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.6.2-runtime-ubuntu18.04
@@ -25,7 +29,7 @@
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu20.04
   - docker pull ssdog/cuda:11.8.0-runtime-ubuntu22.04
 
-### 3. cuda开发环境
+### 3. cuda开发镜像
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu20.04
   - docker pull ssdog/cuda:11.3.1-dev-ubuntu18.04
   - docker pull ssdog/cuda:11.6.2-dev-ubuntu18.04
@@ -40,10 +44,9 @@
   - docker pull ssdog/cuda:11.8.0-dev-ubuntu22.04
 
 
-## 4. nvidia 深度学习框架 docker环境
- - [nvidia docker](nvidia_docker.MD)
+
     
-## 5. 第三方神经网络框架安装包
+## 第三方神经网络框架安装包
     
  - [tensorflow](tensorflow.MD)
  - [torch](torch.MD)
