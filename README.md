@@ -60,46 +60,46 @@
   - docker pull xbuild/pycuda:12.1.1-runtime-ubuntu22.04
 
 ### cuda开发镜像
-  - docker pull xbuild/cuda:10.2-dev-ubuntu18.04
-  - docker pull xbuild/cuda:11.2.2-dev-ubuntu18.04
-  - docker pull xbuild/cuda:11.2.2-dev-ubuntu20.04
-  - docker pull xbuild/cuda:11.3.1-dev-ubuntu20.04
-  - docker pull xbuild/cuda:11.3.1-dev-ubuntu18.04
-  - docker pull xbuild/cuda:11.6.2-dev-ubuntu18.04
-  - docker pull xbuild/cuda:11.6.2-dev-ubuntu20.04
-  - docker pull xbuild/cuda:11.7.1-dev-ubuntu18.04
-  - docker pull xbuild/cuda:11.7.1-dev-ubuntu20.04
-  - docker pull xbuild/cuda:11.7.1-dev-ubuntu22.04
-  - docker pull xbuild/cuda:11.8.0-cudnn8.7.0-dev-ubuntu20.04
-  - docker pull xbuild/cuda:11.8.0-cudnn8.7.0-dev-ubuntu22.04
-  - docker pull xbuild/cuda:11.8.0-dev-ubuntu18.04
-  - docker pull xbuild/cuda:11.8.0-dev-ubuntu20.04
-  - docker pull xbuild/cuda:11.8.0-dev-ubuntu22.04
-  - docker pull xbuild/cuda:12.0.1-dev-ubuntu20.04
-  - docker pull xbuild/cuda:12.0.1-dev-ubuntu22.04
-  - docker pull xbuild/cuda:12.1.1-dev-ubuntu20.04
-  - docker pull xbuild/cuda:12.1.1-dev-ubuntu22.04
+  - docker pull xbuild/cuda:10.2-devel-ubuntu18.04
+  - docker pull xbuild/cuda:11.2.2-devel-ubuntu18.04
+  - docker pull xbuild/cuda:11.2.2-devel-ubuntu20.04
+  - docker pull xbuild/cuda:11.3.1-devel-ubuntu20.04
+  - docker pull xbuild/cuda:11.3.1-devel-ubuntu18.04
+  - docker pull xbuild/cuda:11.6.2-devel-ubuntu18.04
+  - docker pull xbuild/cuda:11.6.2-devel-ubuntu20.04
+  - docker pull xbuild/cuda:11.7.1-devel-ubuntu18.04
+  - docker pull xbuild/cuda:11.7.1-devel-ubuntu20.04
+  - docker pull xbuild/cuda:11.7.1-devel-ubuntu22.04
+  - docker pull xbuild/cuda:11.8.0-cudnn8.7.0-devel-ubuntu20.04
+  - docker pull xbuild/cuda:11.8.0-cudnn8.7.0-devel-ubuntu22.04
+  - docker pull xbuild/cuda:11.8.0-devel-ubuntu18.04
+  - docker pull xbuild/cuda:11.8.0-devel-ubuntu20.04
+  - docker pull xbuild/cuda:11.8.0-devel-ubuntu22.04
+  - docker pull xbuild/cuda:12.0.1-devel-ubuntu20.04
+  - docker pull xbuild/cuda:12.0.1-devel-ubuntu22.04
+  - docker pull xbuild/cuda:12.1.1-devel-ubuntu20.04
+  - docker pull xbuild/cuda:12.1.1-devel-ubuntu22.04
 
 ### cuda开发镜像 python环境
-  - docker pull xbuild/pycuda:10.2-dev-ubuntu18.04
-  - docker pull xbuild/pycuda:11.2.2-dev-ubuntu18.04
-  - docker pull xbuild/pycuda:11.2.2-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:11.3.1-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:11.3.1-dev-ubuntu18.04
-  - docker pull xbuild/pycuda:11.6.2-dev-ubuntu18.04
-  - docker pull xbuild/pycuda:11.6.2-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:11.7.1-dev-ubuntu18.04
-  - docker pull xbuild/pycuda:11.7.1-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:11.7.1-dev-ubuntu22.04
-  - docker pull xbuild/pycuda:11.8.0-cudnn8.7.0-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:11.8.0-cudnn8.7.0-dev-ubuntu22.04
-  - docker pull xbuild/pycuda:11.8.0-dev-ubuntu18.04
-  - docker pull xbuild/pycuda:11.8.0-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:11.8.0-dev-ubuntu22.04
-  - docker pull xbuild/pycuda:12.0.1-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:12.0.1-dev-ubuntu22.04
-  - docker pull xbuild/pycuda:12.1.1-dev-ubuntu20.04
-  - docker pull xbuild/pycuda:12.1.1-dev-ubuntu22.04
+  - docker pull xbuild/pycuda:10.2-devel-ubuntu18.04
+  - docker pull xbuild/pycuda:11.2.2-devel-ubuntu18.04
+  - docker pull xbuild/pycuda:11.2.2-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:11.3.1-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:11.3.1-devel-ubuntu18.04
+  - docker pull xbuild/pycuda:11.6.2-devel-ubuntu18.04
+  - docker pull xbuild/pycuda:11.6.2-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:11.7.1-devel-ubuntu18.04
+  - docker pull xbuild/pycuda:11.7.1-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:11.7.1-devel-ubuntu22.04
+  - docker pull xbuild/pycuda:11.8.0-cudnn8.7.0-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:11.8.0-cudnn8.7.0-devel-ubuntu22.04
+  - docker pull xbuild/pycuda:11.8.0-devel-ubuntu18.04
+  - docker pull xbuild/pycuda:11.8.0-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:11.8.0-devel-ubuntu22.04
+  - docker pull xbuild/pycuda:12.0.1-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:12.0.1-devel-ubuntu22.04
+  - docker pull xbuild/pycuda:12.1.1-devel-ubuntu20.04
+  - docker pull xbuild/pycuda:12.1.1-devel-ubuntu22.04
 
 ## 第三方 nvidia docker 旧版
 ### docker cuda 镜像环境
