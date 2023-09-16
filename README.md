@@ -19,8 +19,9 @@
 | cuda:12.1.1            | 12.1.1     | 8.9.0.131  | 2.17.1        | 未安装          |
 
 ### 链接
-(cuda)[https://hub.docker.com/repository/docker/xbuild/cuda]
-(pycuda)[https://hub.docker.com/repository/docker/xbuild/pycuda]
+[cuda](https://hub.docker.com/repository/docker/xbuild/cuda)
+[pycuda](https://hub.docker.com/repository/docker/xbuild/pycuda)
+
 ### cuda运行时镜像
   - docker pull xbuild/cuda:10.2-cudnn8-runtime-ubuntu18.04
   - docker pull xbuild/cuda:11.2.2-cudnn8-runtime-ubuntu18.04
